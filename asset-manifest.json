@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sinisandal1/perfadcoolbeans7.git/static/css/main.073c9b0a.css",
+    "main.js": "/Sinisandal1/perfadcoolbeans7.git/static/js/main.be6755df.js",
+    "static/media/logo.svg": "/Sinisandal1/perfadcoolbeans7.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Sinisandal1/perfadcoolbeans7.git/index.html",
+    "main.073c9b0a.css.map": "/Sinisandal1/perfadcoolbeans7.git/static/css/main.073c9b0a.css.map",
+    "main.be6755df.js.map": "/Sinisandal1/perfadcoolbeans7.git/static/js/main.be6755df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.be6755df.js"
+  ]
+}
